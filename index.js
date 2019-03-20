@@ -26,4 +26,4 @@ function iLoveTheBeatles(num){
   i = i - 1;
   return i;}
   do {empty.push("I love the Beatles!")}
-  while(incrementVariable()< num)}}
+  while(incrementVariable()> num)}}
