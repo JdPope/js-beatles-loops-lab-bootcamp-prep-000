@@ -5,4 +5,4 @@ function theBeatlesPlay(musicians, instruments){
    var firstmusician = musicians[i];
    var firstinstrument = instruments[i];
    newvar.push(firstmusician + " plays " + firstinstrument)
-}}
+}return newvar}
