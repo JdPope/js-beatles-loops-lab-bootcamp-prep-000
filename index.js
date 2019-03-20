@@ -17,4 +17,4 @@ function johnLennonFacts(facts){
     newfacts.push(secvar + "!!!")
     
   }
-}
+return newfacts}
