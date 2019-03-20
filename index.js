@@ -20,5 +20,6 @@ function johnLennonFacts(facts){
 return newfacts}
 
 function iLoveTheBeatles(num){
+  var empty = []
   
 }
