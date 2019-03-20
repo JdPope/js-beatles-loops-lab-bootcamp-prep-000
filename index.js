@@ -21,9 +21,9 @@ return newfacts}
 
 function iLoveTheBeatles(num){
   var empty = []
-  var i = 0
+  var i = 15
   function incrementVariable(){
-  i = i + 1;
+  i = i - 1;
   return i;}
   do {console.log("I love the Beatles!")
   }
