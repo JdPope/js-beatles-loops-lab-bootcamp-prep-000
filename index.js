@@ -16,5 +16,5 @@ function johnLennonFacts(facts){
     var secvar = facts.shift();
     newfacts.push(secvar + "!!!")
     
-  return newfacts}
+  }
 }
