@@ -11,5 +11,9 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 function johnLennonFacts(facts){
-  while(facts.length>0)
+  var newfacts = []
+  while(facts.length>0){
+    var secvar = facts.shift()
+    
+  }
 }
